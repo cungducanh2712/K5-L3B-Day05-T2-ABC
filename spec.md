@@ -1,8 +1,8 @@
-# Bài nộp LAB5 — T2 Giáo dục · Nhóm StudySmart
+# Bài nộp LAB5 — T2 Giáo dục · Nhóm ABC
 
 ## Bảng thành viên nhóm
 
-**Lớp:** L3B · **Bàn / zone:** Zone 2 · **Track:** T2 — Giáo dục (ChatGPT Study mode tích hợp trang khóa học)
+**Lớp:** L3B · **Bàn / zone:** Zone K · **Track:** T2 — Giáo dục (ChatGPT Study mode tích hợp trang khóa học)
 
 | Họ và Tên | Mã Học Viên | Việc đã làm |
 |---|---|---|
