@@ -6,9 +6,9 @@
 
 | Họ và Tên | Mã Học Viên | Việc đã làm |
 |---|---|---|
-| Cung Đức Anh | 2A202603814 | Thiết kế kịch bản rủi ro (§2), phụ trách lập luận khi AI sai (§3), thuyết trình demo ca khó |
-| Võ Thanh Huy | 2A202603879 | Phân tích mức độ tự chủ 4 tool (§4), xây dựng bộ tiêu chí nghiệm thu (§6), thuyết trình phần Guardrail |
-|  |  | Xây dựng mã nguồn Prototype tương tác (`prototype/index.html`) (§5), thiết kế UI/UX theo chuẩn HAX/PAIR |
+| Cung Đức Anh | 2A202603814 | Xây dựng mã nguồn Prototype tương tác (`prototype/index.html`) (§5), thiết kế UI/UX theo chuẩn HAX/PAIR |
+| Võ Thanh Huy | 2A202603879 | Phân tích mức độ tự chủ 4 tool (§4), xây dựng bộ tiêu chí nghiệm thu (§6) |
+| Vương Trường Giang | 2A202603834 | Phân chia công việc cho nhóm, thiết kế kịch bản rủi ro (§2), phụ trách lập luận khi AI sai (§3) |
 
 ---
 
